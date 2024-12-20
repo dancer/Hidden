@@ -24,7 +24,7 @@ Embracing simplicity and functionality, `hidden.` strips away unnecessary elemen
 
 ## ✧ Installation
 
-1. Download from the [Chrome Web Store](https://chrome.google.com/webstore)
+1. Download from the [Chrome Web Store](https://chromewebstore.google.com/detail/x-dm-popout/cfigdffhbimhflamilnhpdmanljkidga)
 2. Click the extension icon to activate
 3. Navigate to X and enjoy your enhanced DM experience
 

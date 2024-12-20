@@ -34,7 +34,7 @@ export default function Home() {
             </div>
             <div>
               <Link 
-                href="https://chrome.google.com/webstore" 
+                href="https://chromewebstore.google.com/detail/x-dm-popout/cfigdffhbimhflamilnhpdmanljkidga" 
                 className="ml-0 sm:-ml-[4rem] md:-ml-[8rem] inline-block font-bold text-lg border-2 border-black px-6 py-2 hover:bg-black hover:text-white transition-all"
               >
                 DOWNLOAD HERE
